@@ -1,0 +1,404 @@
+1. 2D Game Development
+2. 3D & Animation
+3. 3D Animation
+4. 3D Game Development
+5. 3D Modeling
+6. 3D Printing
+7. AI Agents & Agentic AI
+8. AI Content Generation
+9. ASP.NET Core
+10. AWS Certified AI Practitioner
+11. AWS Certified Cloud Practitioner
+12. AWS Certified Developer - Associate
+13. AWS Certified Solutions Architect - Associate
+14. AZ-104: Microsoft Azure Administrator Associate
+15. AZ-900: Microsoft Azure Fundamentals
+16. Ableton Live
+17. Accounting
+18. Accounting & Bookkeeping
+19. Acrylic Painting
+20. Adobe After Effects
+21. Adobe Illustrator
+22. Adobe InDesign
+23. Adobe Lightroom
+24. Adobe Photoshop
+25. Adobe Premiere Pro
+26. Affiliate Marketing
+27. Affinity Photo
+28. Algorithmic Trading
+29. Amazon AWS
+30. Android Development
+31. Angular
+32. Anti-Money Laundering (AML)
+33. Apple
+34. Architectural Design
+35. Artificial Intelligence (AI)
+36. Artificial Intelligence Governance Professional (AIGP)
+37. Arts & Crafts
+38. Astrology
+39. Audio Engineering
+40. AutoCAD
+41. Autodesk Fusion
+42. Banking
+43. Bass Guitar
+44. Beauty
+45. Beauty & Makeup
+46. Big Data
+47. Blender
+48. Bookkeeping
+49. Branding
+50. Breathing Techniques
+51. Business
+52. Business Analysis
+53. Business Analytics & Intelligence
+54. Business Fundamentals
+55. Business Law
+56. Business Strategy
+57. C# (programming language)
+58. C++ (programming language)
+59. Calculus
+60. Canva
+61. CapCut
+62. Career Development
+63. Character Design
+64. Chartered Financial Analyst (CFA)
+65. ChatGPT
+66. Chess
+67. Cisco Certified Network Associate (CCNA)
+68. Civil Engineering
+69. Claude AI
+70. Claude Code
+71. Coaching
+72. Cognitive Behavioral Therapy (CBT)
+73. Color Grading
+74. Commercial Photography
+75. Communication
+76. Communication Skills
+77. CompTIA A+
+78. CompTIA Network+
+79. CompTIA Security+
+80. Compliance
+81. Confidence
+82. Content Marketing
+83. Copywriting
+84. Corporate Finance
+85. Creative Writing
+86. Creativity
+87. Cryptocurrency
+88. Cryptocurrency & Blockchain
+89. Cybersecurity
+90. DJ
+91. DaVinci Resolve
+92. Dance
+93. Dart (programming language)
+94. Data Analysis
+95. Data Modeling
+96. Data Science
+97. Database Design & Development
+98. Day Trading
+99. Deep Learning
+100. Design
+101. Design Tools
+102. DevOps
+103. Development
+104. Digital Camera Functionality
+105. Digital Marketing
+106. Digital Painting
+107. Digital Photography
+108. Divination
+109. Drawing
+110. Drums
+111. E-Commerce
+112. Economics
+113. Electrical Circuits
+114. Electrical Engineering
+115. Electricity
+116. Electronic Music
+117. Electronics
+118. Emotional Intelligence
+119. Energy Healing
+120. Engineering
+121. English Conversation
+122. English Grammar
+123. English Language
+124. English Vocabulary
+125. Entrepreneurship
+126. Entrepreneurship Fundamentals
+127. Esoteric Practices
+128. Essential Tech Skills
+129. Ethical Hacking
+130. Excel Formulas and Functions
+131. Excel VBA
+132. FL Studio
+133. Facebook Ads
+134. Facebook Marketing
+135. Facial Massage
+136. Fashion Design
+137. Figma
+138. Figure Drawing
+139. Filmmaking
+140. Final Cut Pro
+141. Finance
+142. Finance & Accounting
+143. Finance Cert & Exam Prep
+144. Finance Fundamentals
+145. Financial Accounting
+146. Financial Analysis
+147. Financial Management
+148. Financial Markets
+149. Financial Modeling
+150. Financial Modeling & Analysis
+151. Fingerstyle Guitar
+152. Fintech
+153. Fitness
+154. Food & Beverage
+155. Forex Trading
+156. Freelancing
+157. French Language
+158. Game Design
+159. Game Development
+160. Game Development Fundamentals
+161. Gaming
+162. General Health
+163. Generative AI
+164. Generative AI (GenAI)
+165. German Language
+166. Godot
+167. Google
+168. Google Ads (Adwords)
+169. Google Ads Certification
+170. Google Analytics
+171. Google Flutter
+172. Google Sheets
+173. Graphic Design
+174. Graphic Design & Illustration
+175. Growth Hacking
+176. Guitar
+177. Happiness
+178. Hardware
+179. Health
+180. Health & Fitness
+181. Herbalism
+182. Home Improvement & Gardening
+183. Human Resources
+184. Humanities
+185. Hypnotherapy
+186. IELTS
+187. IT & Software
+188. IT Certifications
+189. Image Editing
+190. Industry
+191. Influence
+192. Information Security
+193. Instagram Marketing
+194. Instruments
+195. Interior Design
+196. Internet Marketing
+197. Investing
+198. Investing & Trading
+199. Investment Banking
+200. Italian Language
+201. Japanese Language
+202. Java
+203. JavaScript
+204. Keyboard Instrument
+205. Kotlin
+206. Kubernetes
+207. Language Learning
+208. Large Language Models (LLM)
+209. Leadership
+210. Learn AI
+211. Life Coach Training
+212. Lifestyle
+213. Linux
+214. Logic Pro
+215. Machine Learning
+216. Makeup Artistry
+217. Management
+218. Management Skills
+219. Mandarin Chinese Language
+220. Marketing
+221. Marketing Analytics & Automation
+222. Marketing Fundamentals
+223. Marketing Strategy
+224. Martial Arts
+225. Martial Arts & Self Defense
+226. Massage
+227. Math
+228. Mechanical Engineering
+229. Media
+230. Meditation
+231. Memory
+232. Memory & Study Skills
+233. Mental Health
+234. Microsoft
+235. Microsoft 365 (Office)
+236. Microsoft Copilot
+237. Microsoft Excel
+238. Microsoft Playwright
+239. Microsoft Power Automate
+240. Microsoft Power BI
+241. Microsoft Project
+242. Microsoft SharePoint
+243. Microsoft Word
+244. Mobile App Development
+245. Mobile Development
+246. Money Management Tools
+247. Motivation
+248. Music
+249. Music Composition
+250. Music Fundamentals
+251. Music Mixing
+252. Music Production
+253. Music Software
+254. Music Techniques
+255. Music Theory
+256. Nail Artistry
+257. Network & Security
+258. Neuro-Linguistic Programming (NLP)
+259. Next.js
+260. No-Code Development
+261. Node.Js
+262. Nutrition
+263. Nutrition & Diet
+264. Office Productivity
+265. Online Business
+266. Online Education
+267. Operating Systems & Servers
+268. Operations
+269. Options Trading
+270. Oracle
+271. Other Business
+272. Other Design
+273. Other Finance & Accounting
+274. Other Health & Fitness
+275. Other IT & Software
+276. Other Lifestyle
+277. Other Marketing
+278. Other Music
+279. Other Office Productivity
+280. Other Personal Development
+281. Other Photography & Video
+282. Other Teaching & Academics
+283. PMI Certified Associate in Project Management (CAPM)
+284. PMI PMBOK
+285. PMI Project Management Professional (PMP)
+286. PPC Advertising
+287. Paid Advertising
+288. Painting
+289. Parenting & Relationships
+290. Perfume
+291. Personal Brand Building
+292. Personal Development
+293. Personal Finance
+294. Personal Growth & Wellness
+295. Personal Productivity
+296. Personal Transformation
+297. Pet Care & Training
+298. Philosophy
+299. Photography
+300. Photography & Video
+301. Photography Tools
+302. Piano
+303. Piano Chords
+304. Pilates
+305. Pivot Tables
+306. Pixel Art
+307. Portrait Photography
+308. Power Pivot
+309. PowerPoint
+310. Presentation Skills
+311. Procreate Digital Illustration App
+312. Product Management
+313. Product Marketing
+314. Productivity & Professional Skills
+315. Programming Languages
+316. Project Management
+317. Psychic
+318. Public Relations
+319. Public Speaking
+320. Python
+321. Qigong
+322. QuickBooks
+323. React JS
+324. React Native
+325. Real Estate
+326. Real Estate Investing
+327. Real Estate Photography
+328. Reiki
+329. Religion & Spirituality
+330. Revit
+331. SAP
+332. SAP Materials Management (SAP MM)
+333. SOLIDWORKS
+334. SQL
+335. Safety & First Aid
+336. Sales
+337. Sales Funnel
+338. Sales Skills
+339. Science
+340. Search Engine Optimization
+341. Search Engine Optimization (SEO)
+342. See ChatGPT courses
+343. Self Esteem & Confidence
+344. Singing
+345. SketchUp
+346. Sketching
+347. Skincare
+348. Social Media Management
+349. Social Media Marketing
+350. Social Science
+351. Software Development Tools
+352. Software Engineering
+353. Software Testing
+354. Somatic Therapy
+355. Songwriting
+356. Sound Design
+357. Sound Therapy
+358. Spanish Language
+359. Speed Reading
+360. Spiritual Healing
+361. Spirituality
+362. Sports
+363. Sports Massage
+364. Statistics
+365. Stock Options
+366. Stock Trading
+367. Stress Management
+368. Swift
+369. SwiftUI
+370. Tableau
+371. Tai Chi
+372. Tarot Reading
+373. Tax Preparation
+374. Taxes
+375. Teacher Training
+376. Teaching & Academics
+377. Technical Analysis (finance)
+378. Test Prep
+379. Time Management
+380. Travel
+381. Truck Dispatching
+382. Typescript
+383. Udemy Free Resource Center
+384. Unity
+385. Unreal Engine
+386. Unreal Engine Blueprints
+387. User Experience (UX) Design
+388. User Experience Design
+389. Video & Mobile Marketing
+390. Video Design
+391. Video Editing
+392. Video Production
+393. Videography
+394. Vocal
+395. Watercolor Painting
+396. Web Design
+397. Web Development
+398. WordPress
+399. Writing
+400. Yoga
+401. YouTube Audience Growth
+402. YouTube Marketing
+403. iOS Development
+404. iPhone Photography
